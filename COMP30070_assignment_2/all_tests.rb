@@ -1,0 +1,5 @@
+require 'test/unit'
+require_relative 'account_test.rb'
+require_relative 'transaction_test.rb'
+require_relative 'bank_test.rb'
+require_relative 'teller_test.rb'
